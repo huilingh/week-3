@@ -1,0 +1,12 @@
+name: week-3
+channels:
+  - conda-forge
+  - pyviz
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - cartopy
+  - rasterio
