@@ -1,7 +1,6 @@
 name: week-3
 channels:
   - conda-forge
-  - pyviz
   - defaults
 dependencies:
   - numpy
@@ -9,4 +8,7 @@ dependencies:
   - matplotlib
   - geopandas
   - cartopy
-  - rasterio
+  - altair
+  - vega_datasets
+  - notebook
+  - vega
