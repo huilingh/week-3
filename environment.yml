@@ -12,3 +12,4 @@ dependencies:
   - vega_datasets
   - notebook
   - vega
+  - seaborn
