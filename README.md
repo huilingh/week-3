@@ -1,6 +1,6 @@
 # Week 3: Geospatial Data Analysis and GeoPandas
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-3/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-3/master?filepath=lecture-3.ipynb)
 
 ## Topics
 
