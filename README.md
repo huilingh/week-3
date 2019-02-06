@@ -21,7 +21,7 @@
 
 - [GeoPandas](http://geopandas.org/)
 
-## References
+## Further Reading / References
 
 - [Comparing Map Projections](http://metrocosm.com/compare-map-projections.html)
 - [West Wing and the Gall-Peters Projections](https://www.youtube.com/watch?v=vVX-PrBRtTY)
