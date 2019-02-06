@@ -1,7 +1,6 @@
 name: week-3
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - numpy
   - pandas
